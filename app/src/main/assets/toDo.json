@@ -1,0 +1,28 @@
+{
+  "savedLists": [
+    {
+      "title": "Fruit List",
+      "tdl": "4 Apples\n1 Banana\n3 Pears\n2 Oranges\nSome Grapes"
+    },
+    {
+      "title": "Dairy Products List",
+      "tdl": "4 Litres Milk\nCheese\nCooking Cream\nYoghurt\nVanilla Cream"
+    },
+    {
+      "title": "Meat List",
+      "tdl": "400g Steak Mince\nChicken\nSteaks\nTurkey"
+    },
+    {
+      "title": "Fish List",
+      "tdl": "Salmon Steaks\nTuna"
+    },
+    {
+      "title": "Weekly List",
+      "tdl": "2 Litres Milk\nChicken\nCooking Cream\nSteaks\nYoghurt"
+    },
+    {
+      "title": "List 1",
+      "tdl": "Milk\nMeat\nDairy\nFish\nFruit"
+    }
+  ]
+}
